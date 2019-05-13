@@ -26,7 +26,7 @@ function [x, y, varargout] = plotgrid (data)
 % References:                 
 %
 % Validation:                 
-%*
+%
 % Licence:                    Copyright Riccardo Scorretti
 %                             This file is distributed under GPL-3.0-only ou GPL-3.0-or-later.
 %
